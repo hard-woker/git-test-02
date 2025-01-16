@@ -8,6 +8,7 @@ public class GitTest02Application {
 
     public static void main(String[] args) {
         // 修改github
+        //测试 gitee
         SpringApplication.run(GitTest02Application.class, args);
     }
 
