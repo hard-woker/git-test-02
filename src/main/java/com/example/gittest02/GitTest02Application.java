@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GitTest02Application {
 
     public static void main(String[] args) {
+        // 修改github
         SpringApplication.run(GitTest02Application.class, args);
     }
 
